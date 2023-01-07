@@ -14,7 +14,7 @@ Once the tests are run you can view the results running the command: 'npx playwr
 The current configuration for the test reporter is the default Playwright one. This could be updated depending on who needs access to results and the information required. Alternatives include Allure, Monocart etc.
 
 Current test results view:
-![This is an image](/playwright-framework/images/testResults.png)
+![This is an image](../playwright-framework/images/testResults.png)
 
 
 
